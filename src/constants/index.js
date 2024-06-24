@@ -42,7 +42,7 @@ export const navLinks = [
     title: 'Contact',
   },
   {
-    id: 'https://drive.google.com/file/d/1zWOZ_IBl0s6arm4_iomZ2AlwRujL3ZR0/view',
+    id: 'https://drive.google.com/file/d/1Uc4OfORfF6MGFTlkThlZ8n0_4RxxhNTP/view?usp=sharing',
     title: 'Resume',
   },
 ];
