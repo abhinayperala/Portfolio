@@ -156,7 +156,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: 'https://github.com/KarthikSharma-7/cli-app/tree/sahithi',
+    source_code_link: 'https://github.com/abhinayperala/Brain-Tumor-Segmentation.git',
   },
   {
     name: 'Analyz Chatbot',
@@ -176,7 +176,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: 'https://github.com/KarthikSharma-7',
+    source_code_link: 'https://github.com/abhinayperala/Analyz-DSA-Chatbot.git',
   },
   {
     name: 'Finex',
@@ -197,7 +197,7 @@ const projects = [
       },
     ],
     image: blog,
-    source_code_link: 'https://github.com/chsahithi3812/GeekBot',
+    source_code_link: 'https://github.com/abhinayperala/Finex.git',
   },
   {
     name: 'Stock Market Prediction',
@@ -215,7 +215,7 @@ const projects = [
      
     ],
     image: sentiment,
-    source_code_link: 'https://github.com/chsahithi3812/Sentimental-Analysis',
+    source_code_link: 'https://github.com/abhinayperala/InvestIQ.git',
   },
   {
     name: 'E-Commerce Website',
@@ -237,7 +237,7 @@ const projects = [
      
     ],
     image: iiitm,
-    source_code_link: 'https://github.com/chsahithi3812/Sentimental-Analysis',
+    source_code_link: 'https://github.com/abhinayperala/E-Commerce-Website.git',
   },
   {
     name: 'Inhouse LLM',
@@ -259,7 +259,7 @@ const projects = [
      
     ],
     image: infuzex,
-    source_code_link: 'https://github.com/chsahithi3812/Sentimental-Analysis',
+    source_code_link: 'https://github.com/abhinayperala/InhouseLLM.git',
   },
 ];
 
